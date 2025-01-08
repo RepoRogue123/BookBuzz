@@ -2,7 +2,7 @@
 
 Welcome to **BookBuzz**, an innovative **Library Management System** built to streamline library operations with an intuitive interface and robust backend powered by **C++** and **modern web technologies**.
 
-![BookBuzz Banner]()
+![BookBuzz Banner](./BookBuzz_Image.png)
 
 ---
 
@@ -79,18 +79,10 @@ Welcome to **BookBuzz**, an innovative **Library Management System** built to st
 
 ---
 
-## 🚀 **Planned Enhancements**
-- **Database Integration**: Switch to **MySQL** or **MongoDB**.
-- **Advanced Search**: Implement fuzzy search.
-- **Mobile Optimization**: Create a mobile-first experience.
-- **Admin Dashboard**: Visual analytics for better insights.
-
----
-
 ## 🤝 **Contributing**
 We welcome contributions! Feel free to fork the repository, make improvements, and submit a pull request.
 
----
+---    
 
 ## 📜 **License**
 Licensed under the MIT License. See [LICENSE](./LICENSE) for more information.
@@ -100,7 +92,7 @@ Licensed under the MIT License. See [LICENSE](./LICENSE) for more information.
 ## ✉️ **Contact**
 
 - GitHub: [RepoRogue123](https://github.com/RepoRogue123)
-- Email: [your-email@example.com]
+- Email: [b23ee1006@iitj.ac.in]
 
 ---
 
